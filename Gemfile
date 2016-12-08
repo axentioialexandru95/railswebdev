@@ -38,6 +38,9 @@ gem 'devise', '4.2.0'
 #Use font-awesome-rails for icons
 gem "font-awesome-rails"
 
+#Use Hirb for better database presentation in ruby console
+gem 'hirb'
+
 group :development, :test do
   # Call 'byebug' anywhere in the code to stop execution and get a debugger console
   gem 'byebug', platform: :mri
