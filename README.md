@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # README
 
 This README would normally document whatever steps are necessary to get the
@@ -22,3 +23,7 @@ Things you may want to cover:
 * Deployment instructions
 
 * ...
+=======
+# railswebdev
+Testing my rails web development environment.
+>>>>>>> 77c346dd5ea5d481346de91f6493975915359895
